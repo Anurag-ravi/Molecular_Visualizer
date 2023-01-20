@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5103352940793079737
+  m_GuidHigh: 12942581114947678357
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4749185499903632426
+      m_GuidHigh: 12878522108152265147
+    m_SerializedTextureGuid:
+      m_GuidLow: 15732305819116780055
+      m_GuidHigh: 539493819550092650
+    m_Size: {x: 0.18, y: 0.21864769}
+    m_SpecifySize: 1
+    m_Name: checker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5290258561822532582
+      m_GuidHigh: 817135388411583410
+    m_SerializedTextureGuid:
+      m_GuidLow: 11823127201565068973
+      m_GuidHigh: 1229365381558112955
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: co2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5671365589783503222
+      m_GuidHigh: 8301323046855688346
+    m_SerializedTextureGuid:
+      m_GuidLow: 4243568360205937114
+      m_GuidHigh: 3573640644427843978
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: c2h6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4846113805146380250
+      m_GuidHigh: 18291678601879618460
+    m_SerializedTextureGuid:
+      m_GuidLow: 10827910472463908992
+      m_GuidHigh: 14755066977285799098
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h2o2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5141480828968427255
+      m_GuidHigh: 16764426880164315798
+    m_SerializedTextureGuid:
+      m_GuidLow: 17912054716977468740
+      m_GuidHigh: 5590025720669989464
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: ch4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5193652302204076217
+      m_GuidHigh: 3001961226494608547
+    m_SerializedTextureGuid:
+      m_GuidLow: 2099928359457436151
+      m_GuidHigh: 5356574230727662296
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: c3h8
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5056438307556694824
+      m_GuidHigh: 16627728337403554185
+    m_SerializedTextureGuid:
+      m_GuidLow: 3365334656735564563
+      m_GuidHigh: 6724422140502856938
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h2o
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5264616113848368541
+      m_GuidHigh: 13390504055897602200
+    m_SerializedTextureGuid:
+      m_GuidLow: 14372292024532987555
+      m_GuidHigh: 684075107571204699
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: o2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5136926983095720601
+      m_GuidHigh: 1081624021657874358
+    m_SerializedTextureGuid:
+      m_GuidLow: 3500529586522835090
+      m_GuidHigh: 2003705331700531290
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: nh3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4975953478120263180
+      m_GuidHigh: 7752982294340161163
+    m_SerializedTextureGuid:
+      m_GuidLow: 16286179008485496495
+      m_GuidHigh: 15529468459875662522
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: hcl
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5265842249559441110
+      m_GuidHigh: 8054247520301634740
+    m_SerializedTextureGuid:
+      m_GuidLow: 9319097336156691362
+      m_GuidHigh: 12122799328011670200
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: hno2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5330763348211259135
+      m_GuidHigh: 7250682139058316457
+    m_SerializedTextureGuid:
+      m_GuidLow: 10359557211985617585
+      m_GuidHigh: 12581718529242468424
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h3po4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5542452113477893650
+      m_GuidHigh: 13326972825848136117
+    m_SerializedTextureGuid:
+      m_GuidLow: 3590572119032003296
+      m_GuidHigh: 11537955168819976106
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h3po3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5118108162512627119
+      m_GuidHigh: 3494505266945194117
+    m_SerializedTextureGuid:
+      m_GuidLow: 960478289848495604
+      m_GuidHigh: 16040465886403661195
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h3po2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5475979389882241813
+      m_GuidHigh: 5551403078850813855
+    m_SerializedTextureGuid:
+      m_GuidLow: 240006640234177625
+      m_GuidHigh: 9571121754055373464
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h2so4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4792005554514347410
+      m_GuidHigh: 18158712881645970075
+    m_SerializedTextureGuid:
+      m_GuidLow: 2252938458706617117
+      m_GuidHigh: 10095192713579589081
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h2so3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5347641600328313708
+      m_GuidHigh: 11008041490276920208
+    m_SerializedTextureGuid:
+      m_GuidLow: 7869126658551715750
+      m_GuidHigh: 14609418518445928633
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: h2so2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5686383251203445450
+      m_GuidHigh: 10779195172429394581
+    m_SerializedTextureGuid:
+      m_GuidLow: 12494373722155893745
+      m_GuidHigh: 11525746596837164938
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: c6h6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5241242266237231993
+      m_GuidHigh: 8083445606971670937
+    m_SerializedTextureGuid:
+      m_GuidLow: 14300128670183522231
+      m_GuidHigh: 14049617625103377595
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: ch3oh
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5520771776673205212
+      m_GuidHigh: 12231468297207908754
+    m_SerializedTextureGuid:
+      m_GuidLow: 6716196425783570885
+      m_GuidHigh: 9331749306301942827
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: paracetamol
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4847728281423706303
+      m_GuidHigh: 2128617575632728457
+    m_SerializedTextureGuid:
+      m_GuidLow: 8400463509177464426
+      m_GuidHigh: 506011524841131211
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: phenol
+    m_Texture: {fileID: 0}
